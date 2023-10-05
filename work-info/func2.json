@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "message": "서버 메시지",
+  "data": {
+    "orderAmount": 10000,
+    "orderDate": "2023-04-06",
+    "orderMenus": [
+      {
+        "productName": "메뉴1",
+        "price": 5000
+      },
+      {
+        "productName": "메뉴2",
+        "price": 5000
+      }
+    ],
+    "orderPayments": [
+      {
+        "paymentId": 1,
+        "paymentMethod": "신용카드",
+        "paymentDate": "2023-04-06"
+      }
+    ]
+  }
+}

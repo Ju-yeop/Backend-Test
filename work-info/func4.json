@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "message": "성공",
+  "data": {
+    "orderAmt": 100000,
+    "myPoint": 5000,
+    "useMinPoint": 1000,
+    "useMaxPoint": 10000,
+    "useUnitPoint": 100
+  }
+}

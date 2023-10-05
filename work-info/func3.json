@@ -1,0 +1,7 @@
+{
+  "code": 0,
+  "message": "성공",
+  "data": {
+    "reservation_id": "R123456789"
+  }
+}

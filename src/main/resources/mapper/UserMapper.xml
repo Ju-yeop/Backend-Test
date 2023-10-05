@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="kr.co.kcp.backendcoding.sample.mapper.UserMapper">
+
+    <select id="selectAllUsers" resultType="kr.co.kcp.backendcoding.sample.User">
+        SELECT ID,
+               NAME,
+               EMAIL
+          FROM USERS
+    </select>
+</mapper>
