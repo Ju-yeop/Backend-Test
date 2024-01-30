@@ -3,7 +3,7 @@
 ## API 정보
 
 - Method: `GET`
-- URI: `https://test-menu.payco.kr/test/api/work/point`
+- URI: ``
 
 ## 요청(Request)
 
